@@ -26,7 +26,7 @@ say('Tilin\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Si eres tilín, te paso a recordar lo gay que eres xD`, {
+say(`Si eres labubu, te paso a recordar lo linda que eres x)`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
