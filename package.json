@@ -1,7 +1,7 @@
 {
-"name": "Manía",
+"name": "Rana",
 "version": "1.7.0", 
-"description": "Labubu Bot WhatsApp",
+"description": "Rana Bot WhatsApp",
 "main": "index.js",
 "type": "module",
     
@@ -19,7 +19,7 @@
     
 "homepage": "https://github.com/GataNina-Li/GataBot-MD",
 "author": {
-"name": "Manía" },
+"name": "Rana" },
     
 "repository": {
 "type": "git",
