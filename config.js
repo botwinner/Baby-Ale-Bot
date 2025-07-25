@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["525661319305", 'st', true], //el tilin
-["525661319305", 'st', true], //es gay
-["525661319305"]]
+["526942554318", 'st', true], //el tilin
+["526942554318", 'st', true], //es gay
+["526942554318"]]
 
-global.mods = ["525661319305"]
-global.prems = ["525661319305"]
+global.mods = ["526942554318"]
+global.prems = ["526942554318"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["525661319305", 'st', 1], 
-["525661319305", 'st', 1],  
-["525661319305", 'st', 1]]
+["526942554318", 'st', 1], 
+["526942554318", 'st', 1],  
+["526942554318", 'st', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗥𝗮𝗻𝗮 𝗕𝗼𝘁"
-global.author = "𝗥𝗮𝗻𝗮 𝗕𝗼𝘁"
+global.packname = "𝙇𝙖𝙗𝙪𝙗𝙪 𝘽𝙤𝙩"
+global.author = "𝙇𝙖𝙗𝙪𝙗𝙪 𝘽𝙤𝙩"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗥𝗮𝗻𝗮 𝗕𝗼𝘁"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗥𝗮𝗻𝗮 𝗕𝗼𝘁"
+global.gt = "𝙇𝙖𝙗𝙪𝙗𝙪 𝘽𝙤𝙩"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗥𝗮𝗻𝗮 𝗕𝗼𝘁"
-global.igfg = "𝗥𝗮𝗻𝗮 𝗕𝗼𝘁"
-global.nomorown = "525661319305"
+global.wm = "𝙇𝙖𝙗𝙪𝙗𝙪 𝘽𝙤𝙩"
+global.igfg = "𝙇𝙖𝙗𝙪𝙗𝙪 𝘽𝙤𝙩"
+global.nomorown = "526942554318"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
