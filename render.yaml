@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ranabot-md 
+    name: labubu-bot 
     env: docker
     region: Frankfurt
     plan: free
