@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/GataNina-Li/GataBot-MD
 
-WORKDIR /root/Labubu-Bot
+WORKDIR /root/BabyAle-Bot
 
-COPY ./root/Labubu-Bot
+COPY ./root/BabyAle-Bot
 
 RUN yarn install
 
