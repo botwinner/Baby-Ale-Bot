@@ -12,8 +12,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["526942554318", 'st', true], //el tilin
-["526942554318", 'st', true], //es gay
+["526942554318", 'st', true], //la bubu
+["526942554318", 'st', true], //es linda
 ["526942554318"]]
 
 global.mods = ["526942554318"]
